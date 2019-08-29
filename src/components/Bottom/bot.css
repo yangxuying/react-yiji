@@ -1,0 +1,30 @@
+.home-bot {
+  width: 100vw;
+  height: 1.46rem;
+  background-color: #000;
+  position: fixed;
+  bottom: 0;
+  padding: 0.2rem 1.02rem 0.1rem 1.02rem;
+  display: flex;
+  font-size: 0.34rem;
+  justify-content: space-between;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box; /* Firefox */
+  -webkit-box-sizing: border-box; /* Safari */
+  z-index: 999;
+}
+.home-bot .box a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+}
+.home-bot .box span:first-child {
+  font-size: 0.7rem;
+}
+.home-bot span {
+  color: #fff;
+}
+.active span {
+  color: #ab1d11;
+}

@@ -1,0 +1,54 @@
+.home-top {
+  height: 1.7rem;
+  background-image: url('https://github.com/yangxuying/dj/blob/master/%E8%89%BA%E9%9B%86/%E5%8E%9F%E5%9E%8B/images/%E6%8E%A8%E8%8D%90/u297.jpg?raw=true');
+  background-size: cover;
+  position: relative;
+}
+.home-wrap .swiper-container:nth-child(2) {
+  height: 5.48rem;
+}
+.home-wrap .swiper-container1 {
+  height: 2.8rem;
+}
+.home-top span {
+  display: block;
+  width: 0.65rem;
+  height: 0.65rem;
+  background-color: #fff;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  right: 0.4rem;
+}
+.tabone .el-icon-close {
+  display: block;
+  height: 0.88rem;
+  width: 100%;
+}
+.el-tabs__nav .el-tabs__active-bar {
+  background-color: #20a0ff00;
+}
+.el-tabs__nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.el-tabs__nav .el-tabs__item {
+  width: 5.4rem;
+  padding: 0;
+  text-align: center;
+}
+.el-tabs {
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.el-tabs .el-tabs__header {
+  border: none;
+}
+.el-tabs .el-tabs__header {
+  height: 0.87rem;
+  margin: 0;
+}
+.el-tabs .el-tabs__header div {
+  height: 0.87rem;
+}
